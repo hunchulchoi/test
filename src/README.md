@@ -4,7 +4,7 @@
 
 ##Hello somebody
 
-### I'm Git learner.
+### I'm Git learner.
 
 #### Git is beautiful
 
@@ -29,3 +29,4 @@ _italic_
     * sub2
 + list+
     + sub
+    * sub2
