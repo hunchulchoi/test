@@ -4,7 +4,7 @@
 
 ##Hello somebody
 
-### I'm learner of Git
+### I'm Git learner.
 
 #### Git is beautiful
 
@@ -24,3 +24,8 @@ _italic_
 
 강조--
 
+* list1
+    * sub1
+    * sub2
++ list+
+    + sub
